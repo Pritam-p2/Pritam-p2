@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pritam-p2
+- 👋 Hi, I’m Pritam
 - 👀 I’m interested in Data Analyst and AI/ML
 - 🌱 I’m currently learning Python
 <!-- - 💞️ I’m looking to collaborate on ...
